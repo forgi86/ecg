@@ -1,6 +1,8 @@
 #!/bin/bash
 
-url=https://www.physionet.org/challenge/2017/
+#url=https://www.physionet.org/challenge/2017/
+
+url=https://www.physionet.org/content/challenge-2017/1.0.0/
 
 mkdir data && cd data
 

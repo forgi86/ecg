@@ -6,8 +6,8 @@ import numpy as np
 import os
 import subprocess
 
-WFDB = "/deep/group/med/tools/wfdb-10.5.24/build/bin/"
-DATA = "/deep/group/med/mitdb"
+WFDB = "/usr/local/bin/"
+DATA = "/home/marco/supsi/active_research/ECG/data/mit-bih-arrhythmia-database-1.0.0"
 
 def extract_wave(idx):
     """
